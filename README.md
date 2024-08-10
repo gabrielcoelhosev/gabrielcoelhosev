@@ -5,6 +5,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gbrielcoelho/)
 
 ![gabrielcoelhosev GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcoelhosev&show_icons=true&theme=tokyonight)
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoelhosev&layout=compact&theme=tokyonight)
 
 
 ### Technologies I use 🖳
