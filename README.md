@@ -1,1 +1,1 @@
-code is fun
+coding is fun
