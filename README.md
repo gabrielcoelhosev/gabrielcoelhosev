@@ -1,3 +1,5 @@
-coding is fun
+Full Stack Developer at Plasoft Softwares
+Information Systems student at Universidade do Planalto Catarinense
+Tech stack: Node.js, Angular, React, TypeScript, JavaScript, C#, ASP.NET, PostgreSQL, SQL Server
 
-Working on Plasoft Softwares as a Full Stack Developer.
+Coding is fun :)
