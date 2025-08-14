@@ -1,6 +1,6 @@
-Full Stack Developer at Plasoft Softwares | Information Systems student at UNIPLAC
-🌍 Based in Lages, SC, Brazil
-💻 Tech stack: Node.js, Angular, React, TypeScript, C#, ASP.NET, PostgreSQL
-🚀 Passionate about building great software - coding is fun!
+Full Stack Developer at Plasoft Softwares | Information Systems student at UNIPLAC <br>
+🌍 Based in Lages, SC, Brazil <br>
+💻 Tech stack: Node.js, Angular, React, TypeScript, C#, ASP.NET, PostgreSQL <br>
+🚀 Passionate about building great software - coding is fun! <br>
 
 Coding is fun :)
