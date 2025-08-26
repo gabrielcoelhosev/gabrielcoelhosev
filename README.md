@@ -1,3 +1,3 @@
-💻 Full Stack Developer @ Plasoft Softwares | IS student @ UNIPLAC
-⚡ Node.js · Angular · React · TypeScript · PostgreSQL
+💻 Full Stack Developer @ Plasoft Softwares | IS student @ UNIPLAC <br>
+⚡ Node.js · Angular · React · TypeScript · PostgreSQL<br>
 🚀 Passionate about building great software
