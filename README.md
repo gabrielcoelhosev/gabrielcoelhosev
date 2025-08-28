@@ -2,5 +2,5 @@
 ⚡ Node.js · Angular · React · TypeScript · PostgreSQL<br>
 🚀 Coding is fun!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoelhosev&hide_progress=false&theme=radical) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoelhosev&hide_progress=true&theme=radical) <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielcoelhosev&show_icons=true&theme=radical)
