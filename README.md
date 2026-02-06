@@ -1,7 +1,7 @@
 ## coding is fun :)
 
 💻 Junior Full Stack Developer @ Plasoft Softwares | Infomation System student @ UNIPLAC <br>
-⚡ Node.js · Angular · React · TypeScript · PostgreSQL<br>
+⚡ Node.js · Bun · Angular · React · TypeScript · PostgreSQL<br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
