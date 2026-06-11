@@ -1,7 +1,10 @@
 ## coding is fun :)
 
-💻 Junior Full Stack Developer at Plasoft Softwares <br>
-🎓 Infomation System student at University of Planalto Catarinense <br>
+Full Stack Developer focused on the JavaScript ecosystem. <br>
+
+Currently building ERP solutions and business applications with Node.js, TypeScript and PostgreSQL. <br>
+
+Information Systems Student • Aspiring Low Level Developer <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
